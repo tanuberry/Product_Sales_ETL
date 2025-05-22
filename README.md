@@ -5,6 +5,7 @@ I worked with a multi-table dataset involving orders, products, and customer dat
 A dataset consisting of three related tables – orders, products, and customer – required data cleaning, transformation, and merging to ensure accurate analysis of product sales.
 
 📊Task:
+
 The goal was to:
 
 📍Clean inconsistent, duplicate, and incorrectly formatted data.
