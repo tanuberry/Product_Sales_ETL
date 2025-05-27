@@ -14,6 +14,10 @@ The goal was to:
 
 📍Create a unified and reliable dataset for further analysis.
 
+
+![image](https://github.com/user-attachments/assets/b78983e9-e44b-40e2-83d7-d1512e41f474)
+
+
 📊Action:
 
 🎯Data Cleaning:🎯
