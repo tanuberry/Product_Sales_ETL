@@ -1,10 +1,10 @@
-# Product_Sales_ETL
+# **Product_Sales_ETL**
 I worked with a multi-table dataset involving orders, products, and customer data and completed a full data-cleaning and merging workflow using Excel formulas like VLOOKUP, INDEX-MATCH, and XLOOKUP.
 
-📊Situation:
+**📊Situation:**
 A dataset consisting of three related tables – orders, products, and customer – required data cleaning, transformation, and merging to ensure accurate analysis of product sales.
 
-📊Task:
+**📊Task:**
 
 The goal was to:
 
@@ -18,7 +18,7 @@ The goal was to:
 ![image](https://github.com/user-attachments/assets/b78983e9-e44b-40e2-83d7-d1512e41f474)
 
 
-📊Action:
+**📊Action:**
 
 🎯Data Cleaning:🎯
 
@@ -50,7 +50,7 @@ Pulled in price (in Rs) using XLOOKUP().
 
 Calculated total_price by multiplying cleaned qty and price fields.
 
-📊Result:
+**📊Result:**
 
 ✅Achieved a clean, enriched dataset ready for visualization or further analytics.
 
